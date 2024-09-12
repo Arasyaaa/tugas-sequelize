@@ -1,0 +1,16 @@
+- npm init -y
+- npm i express dotenv sequelize
+- membuat file index
+- membuat file .env
+- membuat utils/connections.js
+- membuat model Pengguna
+- membuat seeder dan clean() untuk mengisi data
+- membuat model Profile
+- membuat relasi Pengguna one to one dengan profile
+- membuat seeder untuk Pengguna dan profile
+- membuat model Buku
+- membuat relasi Pengguna one to many dengan Bukus
+- membuat seeder untuk Pengguna dan Bukus
+- membuat route
+- membuat controller
+- mengecek error
